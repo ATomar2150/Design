@@ -10,3 +10,8 @@ This repository have all the work related to Designing related to:
                    Requirement Gathering, Software Requirement Specification Documents
 
 
+USER INTERFACE DESIGN AND PRINCIPLES
+PLEASE CLICK ON THE LINKS:
+LOW FIDELITY FRAMEWORK:  https://oty4ug.axshare.com/home.html
+HIGH FIDELITY FRAMEWORK:  https://atomar2150.wixsite.com/conestogabanking
+PRESENTATION LINK:  https://prezi.com/view/2Lha1W4GLF7wOdLdkHH4/
